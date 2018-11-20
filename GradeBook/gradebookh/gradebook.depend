@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539329798 source:d:\c++\gradebook\gradebookh\main.cpp
+	<iostream>
+	"GradeBook.h"
+
+1539329798 d:\c++\gradebook\gradebookh\include\gradebook.h
+	<string>
+
+1539329798 source:d:\c++\gradebook\gradebookh\src\gradebook.cpp
+	"GradeBook.h"
+	<iostream>
+
