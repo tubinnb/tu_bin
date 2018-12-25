@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542958526 source:d:\c++\sixonenine\main.cpp
+	<iostream>
+	<cmath>
+
