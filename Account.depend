@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1554467747 source:c:\users\asus\desktop\c\account\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1554467747 c:\users\asus\desktop\c\account\include\account.h
+
+1554467747 source:c:\users\asus\desktop\c\account\main.cpp
+	<iostream>
+	<iomanip>
+	"Account.h"
+	"SavingsAccount.h"
+	"CheckingAccount.h"
+
+1554468202 c:\users\asus\desktop\c\account\include\savingsaccount.h
+	"Account.h"
+
+1554468155 c:\users\asus\desktop\c\account\include\checkingaccount.h
+	"Account.h"
+
+1554468154 source:c:\users\asus\desktop\c\account\src\savingsaccount.cpp
+	"SavingsAccount.h"
+
